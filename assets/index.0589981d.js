@@ -397,4 +397,4 @@ Error generating stack: `+i.message+`
 
       }
   }
-`;function Mm(){return de("div",{className:"App",children:[de("header",{className:"App-header",children:[P(sm,{}),P(zm,{})]}),P("main",{})]})}function jm(){return P(nh,{children:P(th,{children:P(bf,{path:"/",index:!0,element:P(Mm,{})})})})}ao.createRoot(document.getElementById("root")).render(P(Ir.StrictMode,{children:P(jm,{})}));
+`;function Mm(){return de("div",{className:"App",children:[de("header",{className:"App-header",children:[P(sm,{}),P(zm,{})]}),P("main",{})]})}function jm(){return P(nh,{children:P(th,{children:P(bf,{path:"/alissarchitect",index:!0,element:P(Mm,{})})})})}ao.createRoot(document.getElementById("root")).render(P(Ir.StrictMode,{children:P(jm,{})}));

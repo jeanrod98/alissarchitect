@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/alissarchitect/static/css/main.84974df7.css",
-    "main.js": "/alissarchitect/static/js/main.5824828e.js",
+    "main.js": "/alissarchitect/static/js/main.0c43c1b7.js",
     "static/js/787.5e857c35.chunk.js": "/alissarchitect/static/js/787.5e857c35.chunk.js",
     "static/media/2757.jpg": "/alissarchitect/static/media/2757.7e8ce08d8b9eae8b940a.jpg",
     "static/media/09.png": "/alissarchitect/static/media/09.0a3301fb4e264ef6fafb.png",
@@ -18,11 +18,11 @@
     "static/media/fondo.jpg": "/alissarchitect/static/media/fondo.490cff7231a40b07b274.jpg",
     "index.html": "/alissarchitect/index.html",
     "main.84974df7.css.map": "/alissarchitect/static/css/main.84974df7.css.map",
-    "main.5824828e.js.map": "/alissarchitect/static/js/main.5824828e.js.map",
+    "main.0c43c1b7.js.map": "/alissarchitect/static/js/main.0c43c1b7.js.map",
     "787.5e857c35.chunk.js.map": "/alissarchitect/static/js/787.5e857c35.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.84974df7.css",
-    "static/js/main.5824828e.js"
+    "static/js/main.0c43c1b7.js"
   ]
 }
